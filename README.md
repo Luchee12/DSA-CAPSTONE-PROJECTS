@@ -1,4 +1,4 @@
-### DSA-CAPSTONE-PROJECTS
+
 ## Amazon Product Review and Analysis
 ### About This Project
  Excel Pivot Dashboard analyzing product sales,reviews,discounts and pricing with KPI cards.
@@ -105,3 +105,12 @@ Category Revenue Trends: Categories like Mobiles and Laptops generate significan
 
 Price Distribution: Most products fall in the ₹200–₹500 and >₹500 ranges, indicating a focus on mid-to-premium pricing segments.
 
+### BELOW ARE SCREENSHOTS OF THE ANALYSIS
+
+
+
+
+
+[AMAZON CASE STUY.xlsx](https://github.com/user-attachments/files/21092564/AMAZON.CASE.STUY.xlsx)
+
+### CHART REPRESENTATION [Amazon case study1  YELLOW (Recovered) 2.xlsx](https://github.com/user-attachments/files/21092575/Amazon.case.study1.YELLOW.Recovered.2.xlsx)
